@@ -6,21 +6,22 @@ UNIFICAR Y OPTIMIZAR  la distribución de recursos ciudadanos a los damnificados
 
 # ¿Cómo inicio?
 1. Crea un equipo de personal para inventario
-2. Envía un mail a: inventario19s@gmail.com
-3. Recibirás un link con acceso a una base de datos en Spread Sheets (es un Excel online)
-4. Llena las celdas como el formato te lo sugiere en el sistema. NO MOVER nada de la plantilla. Si tienes alguna sugerencia de modificaciones es importante que nos las envíes a: inventario19s@gmail.com
-5. Asigna a una persona con computadora e internet para que vacíe los datos del inventario al formulario de Spread Sheets. 
+2. Si puedes, designa un equipo para órdenes de salida
+3. Envía un mail a: inventario19s@gmail.com
+4. Recibirás un link con acceso a una base de datos en Spread Sheets (es un Excel online)
+5. Llena las celdas como el formato te lo sugiere en el sistema. NO MOVER nada de la plantilla. Si tienes alguna sugerencia de modificaciones es importante que nos las envíes a: inventario19s@gmail.com
+6. Asigna a una persona con computadora e internet para que vacíe los datos del inventario al formulario de Spread Sheets. 
 
 # ¿Cómo funciona?
 
 El template esta dividido en cuatro pestañas 
-* Catálogo de productos y resumen de existencias
-* Entradas de productos
-* Salidas de productos
-* Órdenes de entrada y salida
+* Productos y existencias
+* Entradas
+* Salidas
+* Órdenes de Salida - Opcional 
 
 ## Paso 1
-### Catálogo de Productos
+### Productos y existencias
 * Si no encuentras tu producto en el catálogo, agrégalo al final de la lista
 #### Buenas prácticas
 * Procura que no se repitan los productos
@@ -36,38 +37,38 @@ El template esta dividido en cuatro pestañas
 
 #### Datos obligatorios
 Para agregar un producto llena en una nueva fila los siguientes datos por cada producto:
-* Fecha de entrada
-* Hora de Entrada 
-* Selecciona del listado el producto
-* Llena la cantidad 
+* FECHA
+* HORA
+* PRODUCTO - Seleccionalo del listado 
+* CANTIDAD RECIBIDA  
 
 #### Datos opcionales 
-* ID de órden ( Si vas a llevar ódenes de entrada y salida) 
-* Sí tienes más información que deseas agregar, la puedes poner libremente en columnas despues de la columna de cantidad 
+* NOTA O COMENTARIO 
+* Sí tienes más información que deseas agregar, la puedes poner libremente en columnas despues de la columna de NOTA O COMENTARIO 
 
 ## Paso 3
 ### Salida de productos
 Para agregar un producto llena en una nueva fila los siguientes datos por cada producto:
-* Fecha de salida
-* Hora de salida
-* Selecciona del listado el producto
-* Llena la cantidad 
+* FECHA
+* HORA
+* PRODUCTO - Seleccionalo del listado 
+* CANTIDAD ENVIADA  
 
 #### Datos opcionales 
-* ID de órden ( Si vas a llevar ódenes de entrada y salida) 
-* Sí tienes más información que deseas agregar, la puedes poner libremente en columnas despues de la columna de cantidad 
+* #Órden de Salida ( Si vas a llevar órdenes de salida) 
+* NOTA O COMENTARIO 
+* Sí tienes más información que deseas agregar, la puedes poner libremente en columnas despues de la columna de NOTA O COMENTARIO 
 
 ## Paso 4 (Opcional) 
-### Órdenes
+### Órdenes de Salida
 Para agregar órdenes llena en filas los siguientes datos:
-* ID de órden
-* Tipo: Entrada o Salida
-* Fecha
-* Hora
-* ¿De dónde?
-* ¿A dónde?
-* ¿Quién envía?
-* ¿Quién recibe?
+* #Órden
+* FECHA
+* HORA
+* ¿A DÓNDE?
+* ¿QUIÉN ENVIA?
+* ¿QUIÉN RECIBE?
+* TEL DE QUIEN RECIBE
 
 
 
