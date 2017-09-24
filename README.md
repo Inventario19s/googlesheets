@@ -41,11 +41,9 @@ Para agregar un producto llena en filas los siguientes datos:
 * Selecciona del listado el producto
 * Llena la cantidad 
 
-#### Datos opcionales
-Sí tienes más información que deseas agregar, la puedes poner libremente en columnas despues de la columna de cantidad 
-Ejemplo. 
-* Persona que entrega
-* Persona que recibe
+#### Datos opcionales 
+* ID de órden ( Si vas a llevar ódenes de entrada y salida) 
+* Sí tienes más información que deseas agregar, la puedes poner libremente en columnas despues de la columna de cantidad 
 
 ## Paso 3
 ### Salida de productos
@@ -54,12 +52,10 @@ Para agregar un producto llena en filas los siguientes datos:
 * Hora de salida
 * Selecciona del listado el producto
 * Llena la cantidad 
-#### Datos opcionales
-Sí tienes más información que deseas agregar, la puedes poner libremente en columnas despues de la columna de cantidad 
-Ejemplo. 
-* A donde se envía
-* Persona que recibe el envio 
-* etc
+
+#### Datos opcionales 
+* ID de órden ( Si vas a llevar ódenes de entrada y salida) 
+* Sí tienes más información que deseas agregar, la puedes poner libremente en columnas despues de la columna de cantidad 
 
 ## Paso 4 (Opcional) 
 ### Órdenes
