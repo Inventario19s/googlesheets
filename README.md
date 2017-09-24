@@ -1,6 +1,5 @@
 # Inventario y distribución 19s
 ## Template Google Sheet de inventario y distribución para centros de acopio 
-### Descarga el template desde este link
 
 # Objetivo: 
 UNIFICAR Y OPTIMIZAR  la distribución de recursos ciudadanos a los damnificados.
