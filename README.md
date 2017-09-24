@@ -1,16 +1,24 @@
-# Inventario 19s
-## Template de Google Sheet para centros de acopio
+# Inventario y distribución 19s
+## Template de Google Sheet centros de acopio que ocupan registrar inventario y distribución de órdenes de entrada y salida
 ### Descarga el template desde este link
 
+# Objetivo: 
+UNIFICAR Y OPTIMIZAR  la distribución de recursos ciudadanos a los damnificados.
+
 # ¿Cómo inicio?
-1. Descarga el template de este link
+1. Crea un equipo de personal para inventario
+2. Envía un mail a: inventario19s@gmail.com
+3. Recibirás un link con acceso a una base de datos en Spread Sheets (es un Excel online)
+4. Llena las celdas como el formato te lo sugiere en el sistema. NO MOVER nada de la plantilla. Si tienes alguna sugerencia de modificaciones es importante que nos las envíes a: inventario19s@gmail.com
+5. Asigna a una persona con computadora e internet para que vacíe los datos del inventario al formulario de Spread Sheets. 
 
 # ¿Cómo funciona?
 
-* El template esta dividido en tres pestañas 
+* El template esta dividido en cuatro pestañas 
 ** Catálogo de productos y resumen de existencias
 ** Entradas de productos
 ** Salidas de productos
+** Órdenes de salida
 
 ## Paso 1
 ### Catálogo de Productos
@@ -43,8 +51,8 @@ Ejemplo.
 ## Paso 3
 ### Salida de productos
 Para agregar un producto llena en filas los siguientes datos:
-* Fecha de entrada
-* Hora de Entrada 
+* Fecha de salida
+* Hora de salida
 * Selecciona del listado el producto
 * Llena la cantidad 
 #### Datos opcionales
@@ -53,6 +61,18 @@ Ejemplo.
 * A donde se envía
 * Persona que recibe el envio 
 * etc
+
+## Paso 4 (Opcional) 
+### Órdenes
+Para agregar órdenes llena en filas los siguientes datos:
+* ID de órden
+* Tipo: Entrada o Salida
+* Fecha
+* Hora
+* ¿De dónde?
+* ¿A dónde?
+* ¿Quién envía?
+* ¿Quién recibe?
 
 
 
