@@ -35,7 +35,7 @@ El template esta dividido en cuatro pestañas
 ### Entrada de productos
 
 #### Datos obligatorios
-Para agregar un producto llena en filas los siguientes datos:
+Para agregar un producto llena en una nueva fila los siguientes datos por cada producto:
 * Fecha de entrada
 * Hora de Entrada 
 * Selecciona del listado el producto
@@ -47,7 +47,7 @@ Para agregar un producto llena en filas los siguientes datos:
 
 ## Paso 3
 ### Salida de productos
-Para agregar un producto llena en filas los siguientes datos:
+Para agregar un producto llena en una nueva fila los siguientes datos por cada producto:
 * Fecha de salida
 * Hora de salida
 * Selecciona del listado el producto
