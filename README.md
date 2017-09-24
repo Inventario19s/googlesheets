@@ -17,7 +17,7 @@ El template esta dividido en cuatro pestañas
 * Catálogo de productos y resumen de existencias
 * Entradas de productos
 * Salidas de productos
-* Órdenes de salida
+* Órdenes de entrada y salida
 
 ## Paso 1
 ### Catálogo de Productos
