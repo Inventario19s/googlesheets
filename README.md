@@ -13,11 +13,11 @@ UNIFICAR Y OPTIMIZAR  la distribución de recursos ciudadanos a los damnificados
 
 # ¿Cómo funciona?
 
-*El template esta dividido en cuatro pestañas 
-**Catálogo de productos y resumen de existencias
-**Entradas de productos
-**Salidas de productos
-**Órdenes de salida
+* El template esta dividido en cuatro pestañas 
+ * Catálogo de productos y resumen de existencias
+ * Entradas de productos
+ * Salidas de productos
+ * Órdenes de salida
 
 ## Paso 1
 ### Catálogo de Productos
