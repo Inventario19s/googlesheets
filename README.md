@@ -13,11 +13,11 @@ UNIFICAR Y OPTIMIZAR  la distribución de recursos ciudadanos a los damnificados
 
 # ¿Cómo funciona?
 
-* El template esta dividido en cuatro pestañas 
-** Catálogo de productos y resumen de existencias
-** Entradas de productos
-** Salidas de productos
-** Órdenes de salida
+*El template esta dividido en cuatro pestañas 
+**Catálogo de productos y resumen de existencias
+**Entradas de productos
+**Salidas de productos
+**Órdenes de salida
 
 ## Paso 1
 ### Catálogo de Productos
@@ -25,11 +25,11 @@ UNIFICAR Y OPTIMIZAR  la distribución de recursos ciudadanos a los damnificados
 #### Buenas prácticas
 * Procura que no se repitan los productos
 * Agrega productos con su unidad mínima 
-** Ejemplo
-*** Agua de 1L
-*** Agua de 600ML
-*** Agua de 1.5L
-*** Agua garrafón 20L
+  * Ejemplo
+    * Agua de 1L
+    * Agua de 600ML
+    * Agua de 1.5L
+    * Agua garrafón 20L
 
 ## Paso 2
 ### Entrada de productos
