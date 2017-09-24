@@ -1,5 +1,5 @@
 # Inventario y distribución 19s
-## Template de Google Sheet centros de acopio que ocupan registrar inventario y distribución de órdenes de entrada y salida
+## Template Google Sheet de inventario y distribución para centros de acopio 
 ### Descarga el template desde este link
 
 # Objetivo: 
