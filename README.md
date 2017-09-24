@@ -6,8 +6,8 @@ UNIFICAR Y OPTIMIZAR  la distribución de recursos ciudadanos a los damnificados
 
 # ¿Cómo inicio?
 1. Crea un equipo de personal para inventario, imprime tus hojas de control (entrada y salida) para que su trabajo en el campo sea rápido y ordenado:
-- [Entradas (click acá)](https://github.com/Inventario19s/googlesheets/raw/master/templatesParaImprimir/ENTRADAS.pdf)
-- [Salidas (click acá)](https://github.com/Inventario19s/googlesheets/raw/master/templatesParaImprimir/SALIDAS.pdf)
+- [Entradas (click acá)](https://github.com/Inventario19s/googlesheets/raw/master/templatesParaImprimir/ENTRADAS.pdf){:target="_blank"}
+- [Salidas (click acá)](https://github.com/Inventario19s/googlesheets/raw/master/templatesParaImprimir/SALIDAS.pdf){:target="_blank"}
 2. Si puedes, designa un equipo para órdenes de salida
 3. Envía un mail a: inventario19s@gmail.com
 4. Recibirás un link con acceso a una base de datos en Spread Sheets (es un Excel online)
